@@ -58,6 +58,10 @@ apis:
       - type: Registration
         url: https://data.hrsa.gov/tools/web-services/registration
 common:
+  - type: GitHubOrganization
+    url: https://github.com/HHS-HRSA
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hrsagov
   - type: Website
     url: https://www.hrsa.gov/
   - type: Portal
