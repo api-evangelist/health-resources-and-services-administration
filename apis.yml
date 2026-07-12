@@ -58,6 +58,8 @@ apis:
       - type: Registration
         url: https://data.hrsa.gov/tools/web-services/registration
 common:
+  - type: DomainSecurity
+    url: security/health-resources-and-services-administration-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/HHS-HRSA
   - type: LinkedIn
