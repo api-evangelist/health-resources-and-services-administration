@@ -29,7 +29,7 @@ tags:
   - Public Health
 created: '2024-12-03'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: health-resources-and-services-administration:hrsa-health-center-data-service
     name: HRSA Health Center Data Service
