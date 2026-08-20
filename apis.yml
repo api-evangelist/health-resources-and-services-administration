@@ -23,6 +23,11 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/health-resources-and-services-administration.png
 tags:
+  - Federal-Government
+  - Healthcare
+  - Open Data
+  - Public Health
+tags_raw:
   - Federal Government
   - Healthcare
   - Open Data
