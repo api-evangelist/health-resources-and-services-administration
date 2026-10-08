@@ -87,6 +87,12 @@ apis:
       - type: Registration
         url: https://data.hrsa.gov/tools/web-services/registration
 common:
+  - type: Plans
+    url: plans/health-resources-and-services-administration-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/health-resources-and-services-administration-rate-limits.yml
+  - type: FinOps
+    url: finops/health-resources-and-services-administration-finops.yml
   - type: DomainSecurity
     url: security/health-resources-and-services-administration-domain-security.yml
   - type: GitHubOrganization
