@@ -1,4 +1,4 @@
-# Health Resources and Services Administration (health-resources-and-services-administration)
+# Health Resources and Services Administration
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,89 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Health Resources and Services Administration (HRSA) is the primary
-Federal agency for improving access to health care services for people who
-are uninsured, isolated, or medically vulnerable. HRSA provides data and
-web services for healthcare resources, facility locations, and program
-information.
+The Health Resources and Services Administration (HRSA) is the primary Federal agency for improving access to health care services for people who are uninsured, isolated, or medically vulnerable. HRSA provides data and web services for healthcare resources, facility locations, and program information.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/health-resources-and-services-administration/refs/heads/main/apis.yml)
+**Areas:** Federal Government · Healthcare · Open Data · Public Health
 
-## Scope
+## Health Resources and Services Administration on APIs.io
 
-- **Type:** Government Agency
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Health Resources and Services Administration is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/health-resources-and-services-administration/](https://apis.io/providers/health-resources-and-services-administration/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (2)
 
-- Federal Government
-- Healthcare
-- Open Data
-- Public Health
+- [HRSA Health Center Data Service](https://apis.io/apis/health-resources-and-services-administration/hrsa-health-center-data-service/) — The HRSA Health Center Data Service enables users to query for health centers by state, county, or ZIP Code, providing access to federally qualified health…
+- [HRSA Ryan White HIV/AIDS Medical Care Provider Data Service](https://apis.io/apis/health-resources-and-services-administration/hrsa-ryan-white-medical-care-provider/) — The HRSA Ryan White HIV/AIDS Medical Care Provider Data Service enables users to query for HIV/AIDS care providers around a specified latitude and…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### HRSA Health Center Data Service
+Authentication, trust centre, and vulnerability disclosure.
 
-The HRSA Health Center Data Service enables users to query for health
-centers by state, county, or ZIP Code, providing access to federally
-qualified health center location and service information.
+- [Health Resources And Services Administration Domain Security](https://apis.io/security/health-resources-and-services-administration/health-resources-and-services-administration-domain-security/)
 
-**Human URL:** [https://data.hrsa.gov/tools/web-services](https://data.hrsa.gov/tools/web-services)
+#### Plans and pricing (1)
 
-**Base URL:** `https://data.hrsa.gov`
+Published plans, tiers and prices.
 
-#### Tags
+- [Health Resources And Services Administration Plans Pricing](https://apis.io/plans/health-resources-and-services-administration/health-resources-and-services-administration-plans-pricing/)
 
-- Government
-- Healthcare
-- Health Centers
-- Open Data
+#### Rate limits (1)
 
-#### Properties
+Published request limits.
 
-- [Documentation](https://data.hrsa.gov/tools/web-services)
-- [Registration](https://data.hrsa.gov/tools/web-services/registration)
+- [Health Resources And Services Administration Rate Limits](https://apis.io/rate-limits/health-resources-and-services-administration/health-resources-and-services-administration-rate-limits/)
 
-### HRSA Ryan White HIV/AIDS Medical Care Provider Data Service
+#### FinOps (1)
 
-The HRSA Ryan White HIV/AIDS Medical Care Provider Data Service enables
-users to query for HIV/AIDS care providers around a specified latitude and
-longitude, supporting access to Ryan White HIV/AIDS Program funded
-providers.
+What the API costs to run, by operation.
 
-**Human URL:** [https://data.hrsa.gov/tools/web-services](https://data.hrsa.gov/tools/web-services)
+- [Health Resources And Services Administration Finops](https://apis.io/finops/health-resources-and-services-administration/health-resources-and-services-administration-finops/)
 
-**Base URL:** `https://data.hrsa.gov`
+## Where to find this API
 
-#### Tags
-
-- Government
-- Healthcare
-- HIV AIDS
-- Ryan White
-- Open Data
-
-#### Properties
-
-- [Documentation](https://data.hrsa.gov/tools/web-services)
-- [Registration](https://data.hrsa.gov/tools/web-services/registration)
-
-## Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.hrsa.gov/)
-- [Portal](https://data.hrsa.gov)
-- [Web Services](https://data.hrsa.gov/tools/web-services)
 - [Support](https://www.hrsa.gov/about/contact/programsupport.html)
+- [GitHub](https://github.com/HHS-HRSA)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 14.9** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/health-resources-and-services-administration/](https://apis.io/providers/health-resources-and-services-administration/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Health Resources and Services Administration: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/health-resources-and-services-administration/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
